@@ -4,5 +4,6 @@ public class main {
     public static void main(String[] args) {
         System.out.println("java program for jenkins testing");
         System.out.println("current date time is : " + new Date());
+        System.out.println("updated on jenkins");
     }
 }
